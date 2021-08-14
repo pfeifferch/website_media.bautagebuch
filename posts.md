@@ -7,7 +7,7 @@ title: Kategorie Bautagebuch
 {% for post in site.posts %}
 
 <article id="{{ post.title }}" class="post-content {{ post.title }} post type-post status-publish format-standard hentry category-bautagebuch">
-<a href="{{ post.url }}" rel="bookmark"></a>
+<a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a>
 <header class="entry-header">
 <span class="screen-reader-text">{{ post.title }}</span>
 <h2 class="entry-title">
@@ -25,5 +25,5 @@ By <span class="author vcard">
  | <span class="screen-reader-text">Comments </span> <a href="./../../bautagebuch/erdarbeiten-tag-5/index.html#respond" class="comments-link">0 Comment</a>
 </span>
 </h5>
-
+</div>
 {% endfor %}
