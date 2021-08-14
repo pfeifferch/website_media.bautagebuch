@@ -3,16 +3,39 @@ layout: default
 permalink: /category/bautagebuch/index.html 
 title: Kategorie Bautagebuch
 ---
-<p><span style="color: #424242;">Willkommen beim <a href="./category/bautagebuch/index.html">{{ site.subtitle }}</a></span></p>
-<p>Im Laufe der/des nächsten Tage / Wochen / Monate / Jahres werden wir hier auf unserem <a href="./category/bautagebuch/index.html">Hausbau-Blog</a> den aktuellen Baufortschritt protokollieren.</p>
+<ul class="posts">
+    {% for post in site.posts %}
+
+
+<article id="{{ post.id }}" class="{{ post.id }}{{ post.tags }} post type-post status-publish format-standard hentry">
+	<header class="entry-header">
+		<h1 class="entry-title"><a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a></h1>
+		<span class="entry-format-badge genericon genericon-standard"><span class="screen-reader-text">Standard</span></span>
+	</header><!-- .entry-header -->
+		<div class="entry-content">
+		<blockquote>
+<p style="text-align: center;">
+          <a href="{{ post.url }}" rel="bookmark">
+           <img src="/assets/img/bg/overlay-pattern.png" 
+           style="background-image: url(/assets/img/post-thumbnails/{{post.thumbnail}}); background-repeat: no-repeat; background-position: center center;" 
+           loading="lazy" class="alignnone wp-image-50 aligncenter"
+           width="150" height="150" alt="{{ post.title }}"> {{ post.title }}</p>
+          </a>
 <p>&nbsp;</p>
-<p>Dieses Blog soll <a href="./category/bautagebuch/index.html">Bautagebuch</a> für uns sein. Deshalb ist das <a href="./category/bautagebuch/index.html">Bautagebuch</a> vorerst nicht vollständig öffentlich zugänglich.</p>
-<p>&nbsp;</p>
-<p>Um die Beiträge zu lesen benötigen Sie einen User-Zugang.</p>
-<p>Dieser ist vorerst nicht registrierbar.</p>
-<p>&nbsp;</p>
-<blockquote>
-<p>An dieser Stelle der Explizite Hinweis, das es sich, im gesamten Blog, um einen Persönlichen Erfahrungsbericht handelt der auf unserer freien Meinung basiert und auch möglicherweise Missstverständnisse enthält.</p>
-<p>Es besteht kein Recht auf Vollständigkeit.</p>
 </blockquote>
-<p>&nbsp;</p>
+			</div>
+<!-- .entry-content -->
+		<footer class="entry-meta">
+		<ul class="clear">
+	<li class="date-meta">
+		<div class="genericon genericon-month"></div>
+		<span class="screen-reader-text">date</span>
+		<a href="{{ post.url }}" rel="bookmark" title="{{ post.date | date_to_string }}">{{ post.date | date_to_string }}</a>
+	</li>
+			</ul>
+	</footer><!-- .entry-meta -->
+	</article><!-- #post-## -->
+
+    {% endfor %}
+  </ul>
+</div>
