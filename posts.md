@@ -11,7 +11,7 @@ title: Kategorie Bautagebuch
 <header class="entry-header">
 <span class="screen-reader-text">{{ post.title }}</span>
 <h2 class="entry-title">
-<a href="{{ post.url }}" rel="bookmark"></a>
+<a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a>
 </h2>
 <div class="entry-meta">
 <h5 class="entry-date">
