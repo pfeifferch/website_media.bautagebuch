@@ -38,4 +38,3 @@ title: Kategorie Bautagebuch
 
     {% endfor %}
   </ul>
-</div>
