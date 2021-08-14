@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /category/bautagebuch/index.html 
-title: Kategorie: Bautagebuch
+title: Kategorie Bautagebuch
 ---
 
 <ul class="posts">
@@ -39,4 +39,3 @@ title: Kategorie: Bautagebuch
 
     {% endfor %}
   </ul>
-</div>
