@@ -383,7 +383,7 @@ jQuery("a[href*='https://']:not([href*='"+window.location.hostname+"'])").not('a
 <!-- .entry-content -->
 
 <footer class="entry-footer">
-{% include footer.html %}
+
 </footer><!-- .entry-footer -->
 </article><!-- #post-## -->
 
@@ -442,8 +442,7 @@ jQuery("a[href*='https://']:not([href*='"+window.location.hostname+"'])").not('a
 </div>
 <footer id="colophon" class="site-footer" role="contentinfo">
 	<div class="row site-info">
-		&copy; 2018 - {{ site.time | date: "%Y" }} by {{ site.title }}	| Hosted on <a href="https://https://github.com/pfeifferch/">GitHub</a>
-				</div>
+		{% include footer.html %}			</div>
 <!-- .site-info -->
 </footer><!-- #colophon -->
 </div>
