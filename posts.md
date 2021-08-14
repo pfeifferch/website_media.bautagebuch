@@ -14,11 +14,11 @@ title: Kategorie Bautagebuch
 <a href="{{ post.url }}" rel="bookmark"></a>
 </h2>
 <div class="entry-meta">
-<h5 class="entry-date">
-<a href="{{ post.url }}" title="{{ post.title }}" rel="bookmark">
-<time class="entry-date" datetime="{{ post.date | date_to_string }}" pubdate>{{ post.date | date_to_string }} </time></a>
-<span class="byline">
-</span>
-</h5>
+  <h5 class="entry-date">
+  <a href="{{ post.url }}" title="{{ post.title }}" rel="bookmark">
+  <time class="entry-date" datetime="{{ post.date | date_to_string }}" pubdate>{{ post.date | date_to_string }} </time></a>
+  <span class="byline"></span>
+  </h5>
 </div>
+</article>
 {% endfor %}
