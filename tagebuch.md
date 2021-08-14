@@ -3,38 +3,4 @@ layout: default
 permalink: /category/bautagebuch/index.html 
 title: Kategorie Bautagebuch
 ---
-<ul class="posts">
-    {% for post in site.posts %}
-
-
-<article id="{{ post.id }}" class="{{ post.id }}{{ post.tags }} post type-post status-publish format-standard hentry">
-	<header class="entry-header">
-		<h1 class="entry-title"><a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a></h1>
-		<span class="entry-format-badge genericon genericon-standard"><span class="screen-reader-text">Standard</span></span>
-	</header><!-- .entry-header -->
-		<div class="entry-content">
-		<blockquote>
-<p style="text-align: center;">
-          <a href="{{ post.url }}" rel="bookmark">
-           <img src="/assets/img/bg/overlay-pattern.png" 
-           style="background-image: url(/assets/img/post-thumbnails/{{post.thumbnail}}); background-repeat: no-repeat; background-position: center center;" 
-           loading="lazy" class="alignnone wp-image-50 aligncenter"
-           width="150" height="150" alt="{{ post.title }}"> {{ post.title }}</p>
-          </a>
-<p>&nbsp;</p>
-</blockquote>
-			</div>
-<!-- .entry-content -->
-		<footer class="entry-meta">
-		<ul class="clear">
-	<li class="date-meta">
-		<div class="genericon genericon-month"></div>
-		<span class="screen-reader-text">date</span>
-		<a href="{{ post.url }}" rel="bookmark" title="{{ post.date | date_to_string }}">{{ post.date | date_to_string }}</a>
-	</li>
-			</ul>
-	</footer><!-- .entry-meta -->
-	</article><!-- #post-## -->
-
-    {% endfor %}
-  </ul>
+<!-- .entry-content --> 	<footer class="entry-footer">			</footer><!-- .entry-footer --></article><!-- #post-## --> 													<article id="post-340" class="post-content post-340 post type-post status-publish format-standard hentry category-bautagebuch"> 	<a href="./../../bautagebuch/erdarbeiten-tag-5/index.html" rel="bookmark">		</a>		<header class="entry-header">				<span class="screen-reader-text">Erdarbeiten Tag 5 &#8211; Abschnitt 2.1</span> 					<h2 class="entry-title">				<a href="./../../bautagebuch/erdarbeiten-tag-5/index.html" rel="bookmark">Erdarbeiten Tag 5 &#8211; Abschnitt 2.1</a>			</h2>						<div class="entry-meta">			<h5 class="entry-date">By <span class="author vcard"><a class="url fn n" href="./../../author/chris/index.html" title="View all posts by Chris" rel="author">Chris</a></span>	| <a href="./../../bautagebuch/erdarbeiten-tag-5/index.html" title="16:30" rel="bookmark"><time class="entry-date" datetime="2019-08-24T16:30:51+02:00" pubdate>24.08.2019 </time></a><span class="byline"><span class="sep"></span> | <span class="screen-reader-text">Comments </span> <a href="./../../bautagebuch/erdarbeiten-tag-5/index.html#respond" class="comments-link">0 Comment</a></span></h5>		</div><!-- .entry-meta -->			</header><!-- .entry-header -->				<div class="entry-content">				<p>Leerrohre Verlegt</p><p>Zuwegung für die LKW wurde vorbereitet</p><p>&nbsp;</p> 							</div><!-- .entry-content -->
