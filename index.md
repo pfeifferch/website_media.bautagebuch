@@ -4,7 +4,7 @@ title: Willkommen
 ---
 ## Das <a href="./category/bautagebuch/index.html">Bautagebuch</a> ist vor kurzem nach GitHub umgezogen und wird gerade zu einer Jekyll Page.
 
-Die Inhalte werden nach und nach wieder eingebunden, alles was anschließend nicht mehr verfügbar sein wird soll es dann auch nicht. 
+Die Inhalte werden nach und nach wieder eingebunden, alles was anschließend nicht mehr verfügbar sein wird soll es dann auch nicht mehr sein.
 
 <p>&nbsp;</p>
 <blockquote>
