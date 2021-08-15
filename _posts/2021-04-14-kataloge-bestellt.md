@@ -1,15 +1,15 @@
 ---
 layout: post
-date:   2021-08-14 08:15:00
+date:   2018-01-10 08:15:00
 categories: Bautagebuch
 permalink: bautagebuch/kataloge-bestellt/index.html
-title:  "kataloge-bestellt"
+title:  "KATALOGE BESTELLT"
 thumbnail: 
 highresolutionimg: 
 ---
 
 <div class="entry-content">
 
-dieser Inhalt ist nicht verf&uuml;gbar
+Kataloge für Fertighäuser Bestellt
 
 </div><!-- .entry-content -->
