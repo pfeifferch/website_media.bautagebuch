@@ -21,14 +21,14 @@ body {
   font-size: var(--font-size);
   line-height: var(--line-height);
 }
-
+/*
 h1 {
   margin-bottom: calc(var(--space) * 3);
   font-family: var(--font-heading);
   font-size: calc(var(--font-size) + 6vmin);
   line-height: calc(var(--line-height) / 1.25);
 }
-
+*/
 .main-navigation-toggle {
   position: fixed;
   height: 1px;
@@ -93,7 +93,7 @@ h1 {
   z-index: -1;
 }
 .main-navigation ul {
-  font-size: 12vmin;
+  font-size: 10vmin;
   font-family: var(--font-heading);
   width: 100%;
 }
