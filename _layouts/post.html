@@ -8,11 +8,3 @@ layout: default
 {{ content }}
 </div>
 
-<footer id="articleFooter">
-<h4>Ähnliche Beiträge</h4>
-{% assign posts = site.posts | where_exp:"post", "post.url != page.url" | sample:4 %}
-{% for post in posts %}
-{% include related-post.html %}
-{% endfor %}
-</footer>
-
