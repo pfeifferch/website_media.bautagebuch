@@ -188,6 +188,75 @@ padding: 0.2em;
 background-color: #373e4a;
 color: #fff;
 padding: 0.2em;
+
+
+
+
+
+
+
+
+
+
+.main-navigation {
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  transform: translateX(-100%);
+  transition: transform var(--nav-duration);
+  z-index: 1;
+  
+  &:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: var(--color-primary);
+    transform-origin: 0 50%;
+    z-index: -1;
+  }
+ul {
+    font-size: 12vmin;
+    font-family: var(--font-heading);
+    width: 100%;
+  }
+  
+  li {
+    --border-size: 1vmin;
+    display: flex;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+    
+    &:after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: var(--border-size);
+      background-color: var(--color-secondary);
+      transform-origin: 0 50%;
+      transform: translateX(-100%) skew(15deg);
+    }
+  }
+ 
+
+
+
+
+
+
+
+
+
+
 }</style>
 <link rel="stylesheet" id="font-awesome-css" href="{{ site.url }}/content/themes/lighthouse/font-awesome/css/font-awesome.min.css" type="text/css" media="all">
 <link rel="stylesheet" id="lighthousegooglefonts-css" href="//fonts.googleapis.com/css?family=Lato:400,300italic,700,700i|Source+Sans+Pro:400,400italic" type="text/css" media="all">
