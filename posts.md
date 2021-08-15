@@ -4,7 +4,7 @@ permalink: /category/bautagebuch/index.html
 title: Kategorie Bautagebuch
 ---
 
-{% for bautagebuch in site.tags %}
+{% for Bautagebuch in site.tags %}
 <blockquote>
 <span class="screen-reader-text">{{ post.title }}</span>
 <h2 class="entry-title">
