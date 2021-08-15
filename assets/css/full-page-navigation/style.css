@@ -93,7 +93,7 @@ h1 {
   z-index: -1;
 }
 .main-navigation ul {
-  font-size: 8vmin;
+  font-size: 7vmin;
   font-family: var(--font-heading);
   width: 85%;
 }
