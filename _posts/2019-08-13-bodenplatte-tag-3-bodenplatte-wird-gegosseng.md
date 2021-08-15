@@ -1,5 +1,5 @@
 ---
-layout: photo_set
+layout: gallery
 photos:
     set: berlin
     size: 3
