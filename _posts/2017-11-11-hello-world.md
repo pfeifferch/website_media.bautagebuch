@@ -12,7 +12,7 @@ highresolutionimg:
 
 Willkommen beim Hausbau-Blog der Familie Pfeiffer.
 
- 
+<!-- more -->
 
 Im Laufe der nächsten Tage / Wochen / Monate / Jahre werden wir hier auf unserem Hausbau-Blog den aktuellen Baufortschritt protokollieren.
 
