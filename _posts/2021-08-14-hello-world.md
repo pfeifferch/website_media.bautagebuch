@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2017-11-11 08:15:00
-categories: Bautagebuch
+categories: [Bautagebuch]
 title:  "hello world"
 thumbnail: 
 highresolutionimg: 
