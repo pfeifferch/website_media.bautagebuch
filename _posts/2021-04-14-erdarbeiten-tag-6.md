@@ -1,9 +1,9 @@
 ---
 layout: post
-date:   2021-08-14 08:15:00
+date:   2019-08-26 08:15:00
 categories: Bautagebuch
 permalink: bautagebuch/erdarbeiten-tag-6/index.html
-title:  "erdarbeiten-tag-6"
+title:  "ERDARBEITEN TAG 6 (ABSCHNITT 2.2)"
 thumbnail: 
 highresolutionimg: 
 ---
