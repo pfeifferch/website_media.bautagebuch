@@ -93,9 +93,9 @@ h1 {
   z-index: -1;
 }
 .main-navigation ul {
-  font-size: 7vmin;
+  font-size: 6vmin;
   font-family: var(--font-heading);
-  width: 85%;
+  width: 80%;
 }
 .main-navigation li {
   --border-size: 1vmin;
