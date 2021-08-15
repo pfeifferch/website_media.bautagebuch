@@ -4,8 +4,8 @@ permalink: /category/bautagebuch/index.html
 title: Kategorie Bautagebuch
 ---
 
-{% for page in site.tags %}
-{% if page.categories contains 'Bautagebuch' %}
+{% for post in site.categories.Bautagebuch %} 
+
 <blockquote>
 <span class="screen-reader-text">{{ post.title }}</span>
 <h2 class="entry-title">
@@ -18,5 +18,4 @@ title: Kategorie Bautagebuch
 </h5>
 </blockquote>
 
-{% endif %}
 {% endfor %}
