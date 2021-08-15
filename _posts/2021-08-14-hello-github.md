@@ -1,0 +1,15 @@
+---
+layout: post
+date:   2021-08-14 09:15:00
+categories: Bautagebuch
+title:  "Hello World II - Hello GitHub"
+permalink: /2021/08/14/hello-galaxy/index.html
+thumbnail: 
+highresolutionimg: 
+---
+
+<div class="entry-content">
+
+Das Bautagebuch ist vor kurzem nach GitHub umgezogen und wird gerade zu einer Jekyll Page.
+
+</div><!-- .entry-content -->
