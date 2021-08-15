@@ -3,7 +3,7 @@ layout: default
 permalink: /author/index.html 
 title: Autoren
 ---
-{% for post in site.categories.Authors %} 
+{% for post in site.categories.Author %} 
 
 <blockquote>
 <span class="screen-reader-text">{{ post.title }}</span>
