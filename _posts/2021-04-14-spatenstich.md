@@ -1,6 +1,6 @@
 ---
 layout: post
-date:   2019-08-05 08:15:00
+date:   2019-08-05 07:15:00
 categories: Bautagebuch
 permalink: bautagebuch/spatenstich/index.html
 title:  "DER ERSTE SPATENSTICH"
