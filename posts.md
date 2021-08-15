@@ -15,6 +15,7 @@ title: Kategorie Bautagebuch
 <a href="{{ post.url }}" title="{{ post.title }}" rel="bookmark">
 <time class="entry-date" datetime="{{ post.date | date_to_string }}" pubdate>{{ post.date | date_to_string }} </time>
 </a>
+{{ post.excerpt }}
 </h5>
 </blockquote>
 
