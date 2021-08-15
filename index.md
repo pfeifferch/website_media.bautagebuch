@@ -2,13 +2,10 @@
 layout: default
 title: Willkommen
 ---
-<p><span style="color: #424242;">Willkommen beim <a href="./category/bautagebuch/index.html">{{ site.subtitle }}</a></span></p>
-<p>Im Laufe der/des nächsten Tage / Wochen / Monate / Jahres werden wir hier auf unserem <a href="./category/bautagebuch/index.html">Hausbau-Blog</a> den aktuellen Baufortschritt protokollieren.</p>
-<p>&nbsp;</p>
-<p>Dieses Blog soll <a href="./category/bautagebuch/index.html">Bautagebuch</a> für uns sein. Deshalb ist das <a href="./category/bautagebuch/index.html">Bautagebuch</a> vorerst nicht vollständig öffentlich zugänglich.</p>
-<p>&nbsp;</p>
-<p>Um die Beiträge zu lesen benötigen Sie einen User-Zugang.</p>
-<p>Dieser ist vorerst nicht registrierbar.</p>
+## Das <a href="./category/bautagebuch/index.html">Bautagebuch</a> ist vor kurzem nach GitHub umgezogen und wird gerade zu einer Jekyll Page.
+
+Die Inhalte werden nach und nach wieder eingebunden, alles was anschließend nicht mehr verfügbar sein wird soll es dann auch nicht mehr sein.
+
 <p>&nbsp;</p>
 <blockquote>
 <p>An dieser Stelle der Explizite Hinweis, das es sich, im gesamten Blog, um einen Persönlichen Erfahrungsbericht handelt der auf unserer freien Meinung basiert und auch möglicherweise Missstverständnisse enthält.</p>

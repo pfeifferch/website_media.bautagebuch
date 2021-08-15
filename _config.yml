@@ -1,9 +1,10 @@
 name: Bautagebuch der Fam. Pfeiffer
-title: Bautagebuch der Fam. Pfeiffer &#8211; 
+title: Bautagebuch der Fam. Pfeiffer 
 subtitle: Hausbau-(B)log der Familie S&amp;C Pfeiffer
 markdown: kramdown
 highlighter: rouge # pygments or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
-permalink: /:year/:month/:day/:title:output_ext/index.html
+permalink: /:year/:month/:day/:title/index.html
+excerpt_separator: <!--more-->
 themecolor: none # not possible
 themeBGimage: https://hausbau-blog.pfeiffer.world/assets/bg-images/haus.jpg
