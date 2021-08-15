@@ -11,20 +11,23 @@ layout: default
 <footer id="articleFooter">
 <h4>Ähnliche Beiträge</h4>
 
-{% assign maxRelated = 4 %}
-{% assign minCommonTags =  2 %}
-{% assign maxRelatedCounter = 0 %}
+{% if page.url contains 'jekyll-themes' %}
+<div class="relatedPosts">
 
-{% for post in site.posts %}
+    {% assign maxRelated = 4 %}
+    {% assign minCommonTags =  1 %}
+    {% assign maxRelatedCounter = 0 %}
+
+    {% for jekyll-themes in site.jekyll-themes %}
 
     {% assign sameTagCount = 0 %}
     {% assign commonTags = '' %}
 
-    {% for category in post.categories %}
-      {% if post.url != page.url %}
-        {% if page.categories contains category %}
+    {% for tag in jekyll-themes.tags %}
+      {% if jekyll-themes.url != page.url %}
+        {% if page.tags contains tag %}
           {% assign sameTagCount = sameTagCount | plus: 1 %}
-          {% capture tagmarkup %} <span class="label label-default">{{ category }}</span> {% endcapture %}
+          {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
           {% assign commonTags = commonTags | append: tagmarkup %}
         {% endif %}
       {% endif %}
@@ -32,7 +35,7 @@ layout: default
 
     {% if sameTagCount >= minCommonTags %}
       <div>
-      <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}{{ commonTags }}</a></h5>
+      <h5><a href="{{ site.baseurl }}{{ jekyll-themes.url }}">{{ jekyll-themes.title }}{{ commonTags }}</a></h5>
       </div>
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
       {% if maxRelatedCounter >= maxRelated %}
@@ -40,8 +43,14 @@ layout: default
       {% endif %}
     {% endif %}
 
-  {% endfor %}
+ {% endfor %}
 
 </div>
+
+{% else %}
+
+//Related posts code for usual posts
+{% endif %}
+
 </footer>
 
