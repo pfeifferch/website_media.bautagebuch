@@ -1,5 +1,5 @@
 ---
-layout: photo_set
+layout: gallery
 title: Berlin
 permalink: /berlin/
 description: "An example photo gallery."
