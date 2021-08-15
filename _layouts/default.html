@@ -316,16 +316,6 @@ jQuery("a[href*='https://']:not([href*='"+window.location.hostname+"'])").not('a
 {% include gads.html %}
 {% include metafavicon.html %}
 
-<nav class="navbar lh-nav-bg-transform navbar-default navbar-fixed-top navbar-left" role="navigation"> 
-        <!-- Brand and toggle get grouped for better mobile display --> 
-        <div class="container" id="navigation_menu">
-          <div class="navbar-header"> 
-{% include navigation.html %}
-          </div> 
-          
-          </div>
-<!--#container-->
-        </nav>
 
 
 </head>
@@ -450,7 +440,16 @@ jQuery("a[href*='https://']:not([href*='"+window.location.hostname+"'])").not('a
 </footer><!-- #colophon -->
 </div>
 <!-- #page -->
-
+<nav class="navbar lh-nav-bg-transform navbar-default navbar-fixed-top navbar-left" role="navigation"> 
+        <!-- Brand and toggle get grouped for better mobile display --> 
+        <div class="container" id="navigation_menu">
+          <div class="navbar-header"> 
+{% include navigation.html %}
+          </div> 
+          
+          </div>
+<!--#container-->
+        </nav>
 <script type="text/javascript" src="https://c0.wp.com/p/jetpack/9.9/_inc/build/photon/photon.min.js" id="jetpack-photon-js"></script>
 <script type="text/javascript" src="./content/themes/lighthouse/js/bootstrap.js" id="bootstrap-js"></script>
 <script type="text/javascript" src="./content/themes/lighthouse/js/skip-link-focus-fix.js" id="lighthouse-skip-link-focus-fix-js"></script>
