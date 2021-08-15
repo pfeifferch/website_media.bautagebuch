@@ -325,8 +325,7 @@ jQuery("a[href*='https://']:not([href*='"+window.location.hostname+"'])").not('a
         <!-- Brand and toggle get grouped for better mobile display --> 
         <div class="container" id="navigation_menu">
           <div class="navbar-header"> 
-                        <a href="{{ site.url }}/index.html">
-              <div class="navbar-brand">{{ site.title }}</div>            </a>
+{% include navigation.html %}
           </div> 
           
           </div>
