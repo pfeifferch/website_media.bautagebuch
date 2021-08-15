@@ -3,13 +3,23 @@ layout: post
 date:   2021-08-14 08:15:00
 categories: Bautagebuch
 permalink: bautagebuch/erdarbeiten-tag-3/index.html
-title:  "erdarbeiten-tag-3"
+title:  "ERDARBEITEN TAG 3"
 thumbnail: 
 highresolutionimg: 
 ---
 
 <div class="entry-content">
 
-dieser Inhalt ist nicht verf&uuml;gbar
+Die ersten zwei Tage waren schon enorm (auch wenn es die Bilder nicht so vermitteln) aber die Fortschritte von Heute haben uns fast umgehauen.
+
+Die Hofzufahrt ist fertig geschottert
+
+Der Erdwall (Hof / Grünfläche) ist angelegt
+
+Der Erdaushub fürs Haus wurde fertiggestellt (die Ausschachtung – Erde noch drin – kommt auf die L-Steine?!)
+
+L-Steine gesetzt
+
+
 
 </div><!-- .entry-content -->
