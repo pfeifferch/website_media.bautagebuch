@@ -95,7 +95,7 @@ h1 {
 .main-navigation ul {
   font-size: 8vmin;
   font-family: var(--font-heading);
-  width: 95%;
+  width: 85%;
 }
 .main-navigation li {
   --border-size: 1vmin;
