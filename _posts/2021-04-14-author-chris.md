@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2021-08-14 08:15:00
-categories: Bautagebuch Author
+categories: Author
 permalink: author/chris/index.html
 title:  "Author: Chris"
 thumbnail: 
