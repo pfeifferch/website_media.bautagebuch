@@ -1,6 +1,6 @@
 ---
 layout: post
-date:   2021-08-14 08:15:00
+date:   2021-08-07 08:15:00
 categories: Bautagebuch
 permalink: bautagebuch/erdarbeiten-tag-3/index.html
 title:  "ERDARBEITEN TAG 3"
