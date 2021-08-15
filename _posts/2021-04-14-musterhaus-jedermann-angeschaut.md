@@ -16,6 +16,8 @@ Aus der Theorie wurde Praxis
 
 Wir haben uns das Jedermann – Musterhaus angeschaut.
 
+<!--more-->
+
 Das ist noch mal etwas anderes als das Bungalow in MK und unser Haus nur vom Papier zu kennen.
 
 Aber die Entscheidung war richtig ;p
