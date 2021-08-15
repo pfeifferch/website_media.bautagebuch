@@ -12,9 +12,9 @@ highresolutionimg:
 
 Familie B ist bei uns und hat den Katalog für „unser Haus“ dabei.
 
-Der Kaufvertrag wird aufgesetzt mit den Vorbehalten „Grundstück und Finanzierung“.
+<!--more-->
 
- 
+Der Kaufvertrag wird aufgesetzt mit den Vorbehalten „Grundstück und Finanzierung“.
 
 Unser Tip:
 
