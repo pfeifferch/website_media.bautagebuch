@@ -3,8 +3,9 @@ layout: default
 permalink: /author/index.html 
 title: Autoren
 ---
+{% for page in site.pages %}
+{% if page.categories contains 'Authors' %}
 
-{% for for Authors in site.tags %}
 <blockquote>
 <span class="screen-reader-text">{{ post.title }}</span>
 <h2 class="entry-title">
@@ -17,4 +18,5 @@ title: Autoren
 </h5>
 </blockquote>
 
+{% endif %}
 {% endfor %}
