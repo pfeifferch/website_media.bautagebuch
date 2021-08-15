@@ -325,7 +325,7 @@ jQuery("a[href*='https://']:not([href*='"+window.location.hostname+"'])").not('a
         <!-- Brand and toggle get grouped for better mobile display --> 
         <div class="container" id="navigation_menu">
           <div class="navbar-header"> 
-                        <a href="./index.html">
+                        <a href="{{ site.url }}/index.html">
               <div class="navbar-brand">{{ site.title }}</div>            </a>
           </div> 
           
@@ -335,7 +335,7 @@ jQuery("a[href*='https://']:not([href*='"+window.location.hostname+"'])").not('a
 
         <div class="site-header">
           <div class="site-branding">   
-          <a class="home-link" href="./index.html" title="{{ site.title }}" rel="home">
+          <a class="home-link" href="{{ site.url }}/index.html" title="{{ site.title }}" rel="home">
                               <span class="site-title">{{ site.title }}</span>
                 <span class="site-description">{{ site.subtitle }}</span>
                           </a>
