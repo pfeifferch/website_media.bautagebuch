@@ -9,7 +9,7 @@ highresolutionimg:
 ---
 
 <div class="entry-content">
-TdoT
+Tag der offenen Tür
 
 <!--more-->
 

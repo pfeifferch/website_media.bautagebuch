@@ -12,8 +12,6 @@ highresolutionimg:
 
 Aus der Theorie wurde Praxis
 
- 
-
 Wir haben uns das Jedermann – Musterhaus angeschaut.
 
 <!--more-->
