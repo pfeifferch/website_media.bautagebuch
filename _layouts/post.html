@@ -10,6 +10,8 @@ layout: default
 
 <footer id="articleFooter">
 <h4>Ähnliche Beiträge</h4>
-{% site.related_posts %}
+{% for post in site.related_posts %}
+   <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+ {% endfor %}
 </footer>
 
