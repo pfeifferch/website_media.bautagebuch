@@ -1,15 +1,27 @@
 ---
 layout: post
-date:   2021-08-14 08:15:00
+date:   2018-09-23 08:15:00
 categories: Bautagebuch
 permalink: bautagebuch/tag-der-offenen-tuer-bei-buedenbender/index.html
-title:  "tag-der-offenen-tuer-bei-buedenbender"
+title:  "TAG DER OFFENEN TÜR BEI BÜDENBENDER"
 thumbnail: 
 highresolutionimg: 
 ---
 
 <div class="entry-content">
+TdoT
 
-dieser Inhalt ist nicht verf&uuml;gbar
+
+Nachmittags hin,
+
+Satt geworden,
+
+Rätsel Ralley mit gemacht,
+
+Produktionshallen und -Schritte gesehen,
+
+Logo ergattert
+
+
 
 </div><!-- .entry-content -->
