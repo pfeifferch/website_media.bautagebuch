@@ -11,16 +11,17 @@ highresolutionimg:
 <div class="entry-content">
 TdoT
 
+<!--more-->
 
 Nachmittags hin,
 
-Satt geworden,
+Babbsatt,
 
-Rätsel Ralley mit gemacht,
+Rätsel-Ralley mit gemacht,
 
 Produktionshallen und -Schritte gesehen,
 
-Logo ergattert
+Logo als Geschenk
 
 
 
