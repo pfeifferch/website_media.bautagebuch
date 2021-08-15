@@ -1,9 +1,9 @@
 ---
 layout: post
-date:   2021-08-14 08:15:00
+date:   2019-08-12 08:15:00
 categories: Bautagebuch
 permalink: bautagebuch/arbeiten-bodenplatte-tag-2/index.html
-title:  "arbeiten-bodenplatte-tag-2"
+title:  "ARBEITEN BODENPLATTE – TAG 2"
 thumbnail: 
 highresolutionimg: 
 ---
