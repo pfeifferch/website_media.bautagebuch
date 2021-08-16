@@ -7,7 +7,7 @@ layout: default
 <ul>
   {% for i in (1..num) %}
   <li>
-<a href="{{ site.baseurl }}/assets/bildergalerien/{{ page.photos.set }}/{{ i }}.jpg" rel="lightbox">
+<a href="{{ site.baseurl }}/assets/bildergalerien/{{ page.photos.set }}/{{ i }}.jpg"  data-lightbox="{{ page.photos.set }}">
 <img src="{{ site.baseurl }}/assets/bildergalerien/{{ page.photos.set }}_preview/{{ i }}.jpg" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">
 </a>
   </li>
