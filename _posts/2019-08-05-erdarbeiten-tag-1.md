@@ -1,9 +1,8 @@
 ---
 layout: gallery
 photos:
-    set: bodenplatte-tag-3
-    size: 8
-
+    set: erdarbeiten-tag-1
+    size: 24
 date:   2019-08-05 08:15:00
 categories: Bautagebuch
 permalink: bautagebuch/beginn-der-erdarbeiten-erdarbeiten-tag-1/index.html
@@ -12,9 +11,30 @@ thumbnail:
 highresolutionimg: 
 ---
 
-<div class="entry-content">
-<p class="jetpack-slideshow-noscript robots-nocontent">Diese Diashow benötigt JavaScript.</p>
-<div id="gallery-332-7-slideshow" class="slideshow-window jetpack-slideshow slideshow-black" data-trans="fade" data-autostart="1" data-gallery="[{&quot;src&quot;:&quot;{{ site.GallerieDir }}/20190805_195414.jpg?fit=4032%2C1960&ssl=1&quot;,&quot;id&quot;:&quot;330&quot;,&quot;title&quot;:&quot;20190805_195414&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;{{ site.GallerieDir }}/20190805_195415.jpg?fit=4032%2C1960&ssl=1&quot;,&quot;id&quot;:&quot;329&quot;,&quot;title&quot;:&quot;20190805_195415&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;{{ site.GallerieDir }}/20190805_065807.jpg?fit=4032%2C1960&ssl=1&quot;,&quot;id&quot;:&quot;327&quot;,&quot;title&quot;:&quot;20190805_065807&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;{{ site.GallerieDir }}/20190805_195419.jpg?fit=4032%2C1960&ssl=1&quot;,&quot;id&quot;:&quot;324&quot;,&quot;title&quot;:&quot;20190805_195419&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;{{ site.GallerieDir }}/20190805_195413.jpg?fit=4032%2C1960&ssl=1&quot;,&quot;id&quot;:&quot;326&quot;,&quot;title&quot;:&quot;20190805_195413&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;{{ site.GallerieDir }}/20190805_195417.jpg?fit=4032%2C1960&ssl=1&quot;,&quot;id&quot;:&quot;322&quot;,&quot;title&quot;:&quot;20190805_195417&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;{{ site.GallerieDir }}/20190805_195418.jpg?fit=4032%2C1960&ssl=1&quot;,&quot;id&quot;:&quot;320&quot;,&quot;title&quot;:&quot;20190805_195418&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;{{ site.GallerieDir }}/20190805_195409.jpg?fit=4032%2C1960&ssl=1&quot;,&quot;id&quot;:&quot;318&quot;,&quot;title&quot;:&quot;20190805_195409&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;{{ site.GallerieDir }}/20190805_194957.jpg?fit=4032%2C1960&ssl=1&quot;,&quot;id&quot;:&quot;317&quot;,&quot;title&quot;:&quot;20190805_194957&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;{{ site.GallerieDir }}/20190805_195619.jpg?fit=4032%2C1960&ssl=1&quot;,&quot;id&quot;:&quot;316&quot;,&quot;title&quot;:&quot;20190805_195619&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;{{ site.GallerieDir }}/20190805_194959.jpg?fit=4032%2C1960&ssl=1&quot;,&quot;id&quot;:&quot;315&quot;,&quot;title&quot;:&quot;20190805_194959&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;{{ site.GallerieDir }}/20190805_194954.jpg?fit=4032%2C1960&ssl=1&quot;,&quot;id&quot;:&quot;314&quot;,&quot;title&quot;:&quot;20190805_194954&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;{{ site.GallerieDir }}/20190805_194956.jpg?fit=4032%2C1960&ssl=1&quot;,&quot;id&quot;:&quot;313&quot;,&quot;title&quot;:&quot;20190805_194956&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;{{ site.GallerieDir }}/20190805_195005.jpg?fit=4032%2C1960&ssl=1&quot;,&quot;id&quot;:&quot;312&quot;,&quot;title&quot;:&quot;20190805_195005&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;{{ site.GallerieDir }}/20190805_201428.jpg?fit=4032%2C1960&ssl=1&quot;,&quot;id&quot;:&quot;311&quot;,&quot;title&quot;:&quot;20190805_201428&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;{{ site.GallerieDir }}/20190805_195016.jpg?fit=4032%2C1960&ssl=1&quot;,&quot;id&quot;:&quot;310&quot;,&quot;title&quot;:&quot;20190805_195016&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;{{ site.GallerieDir }}/20190805_195000.jpg?fit=4032%2C1960&ssl=1&quot;,&quot;id&quot;:&quot;309&quot;,&quot;title&quot;:&quot;20190805_195000&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;{{ site.GallerieDir }}/20190805_201414.jpg?fit=4032%2C1960&ssl=1&quot;,&quot;id&quot;:&quot;307&quot;,&quot;title&quot;:&quot;20190805_201414&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;{{ site.GallerieDir }}/20190805_195003.jpg?fit=4032%2C1960&ssl=1&quot;,&quot;id&quot;:&quot;305&quot;,&quot;title&quot;:&quot;20190805_195003&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;{{ site.GallerieDir }}/20190805_201424.jpg?fit=4032%2C1960&ssl=1&quot;,&quot;id&quot;:&quot;304&quot;,&quot;title&quot;:&quot;20190805_201424&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;{{ site.GallerieDir }}/20190805_195019.jpg?fit=4032%2C1960&ssl=1&quot;,&quot;id&quot;:&quot;303&quot;,&quot;title&quot;:&quot;20190805_195019&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;{{ site.GallerieDir }}/20190805_065816.jpg?fit=4032%2C1960&ssl=1&quot;,&quot;id&quot;:&quot;302&quot;,&quot;title&quot;:&quot;20190805_065816&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;{{ site.GallerieDir }}/20190805_195421.jpg?fit=4032%2C1960&ssl=1&quot;,&quot;id&quot;:&quot;301&quot;,&quot;title&quot;:&quot;20190805_195421&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;},{&quot;src&quot;:&quot;{{ site.GallerieDir }}/20190805_195420.jpg?fit=4032%2C1960&ssl=1&quot;,&quot;id&quot;:&quot;297&quot;,&quot;title&quot;:&quot;20190805_195420&quot;,&quot;alt&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;itemprop&quot;:&quot;image&quot;}]" itemscope itemtype="https://schema.org/ImageGallery"></div>
+20190805_195414.jpg
+20190805_195415.jpg
+20190805_065807.jpg
+20190805_195419.jpg
+20190805_195413.jpg
+20190805_195417.jpg
+20190805_195418.jpg
+20190805_195409.jpg
+20190805_194957.jpg
+20190805_195619.jpg
+20190805_194959.jpg
+20190805_194954.jpg
+20190805_194956.jpg
+20190805_195005.jpg
+20190805_201428.jpg
+20190805_195016.jpg
+20190805_195000.jpg
+20190805_201414.jpg
+20190805_195003.jpg
+20190805_201424.jpg
+20190805_195019.jpg
+20190805_065816.jpg
+20190805_195421.jpg
+20190805_195420.jpg
 
 Bagger gekommen
 
