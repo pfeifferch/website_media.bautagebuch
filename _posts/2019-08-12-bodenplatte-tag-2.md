@@ -1,0 +1,18 @@
+---
+layout: gallery
+photos:
+    set: bodenplatte-tag-2
+    size: 5
+date:   2019-08-12 08:15:00
+categories: Bautagebuch
+permalink: bautagebuch/arbeiten-bodenplatte-tag-2/index.html
+title:  "ARBEITEN BODENPLATTE – TAG 2"
+thumbnail: 
+highresolutionimg: 
+---
+
+20190813_064243.jpg
+20190813_064244.jpg
+20190813_064431.jpg
+20190813_064241.jpg
+20190813_064357.jpg

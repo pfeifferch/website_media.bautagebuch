@@ -1,5 +1,9 @@
 ---
-layout: post
+layout: gallery
+photos:
+    set: erdarbeiten-tag-2
+    size: 3
+
 date:   2019-08-06 08:15:00
 categories: Bautagebuch
 permalink: bautagebuch/erdarbeiten-tag-2/index.html

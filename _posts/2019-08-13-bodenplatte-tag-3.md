@@ -6,7 +6,7 @@ photos:
 date:   2019-08-13 08:15:00
 categories: Bautagebuch
 permalink: bautagebuch/bodenplatte-tag-3-bodenplatte-wird-gegossen/index.html
-title:  "BODENPLATTE TAG 3 – BODENPLATTE WIRD GEGOSSEN"
+title:  "Bodenplatte Tag 3 - Bodenplatte wird gegossen"
 thumbnail: 
 highresolutionimg: 
 ---

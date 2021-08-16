@@ -1,5 +1,8 @@
 ---
-layout: post
+layout: gallery
+photos:
+    set: erdarbeiten-tag-4
+    size: 8
 date:   2019-08-08 08:15:00
 categories: Bautagebuch
 permalink: bautagebuch/erdarbeiten-tag-4/index.html

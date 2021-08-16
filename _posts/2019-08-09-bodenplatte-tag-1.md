@@ -1,5 +1,8 @@
 ---
-layout: post
+layout: gallery
+photos:
+    set: bodenplatte-tag-1
+    size: 8
 date:   2019-08-09 08:15:00
 categories: Bautagebuch
 permalink: bautagebuch/arbeiten-bodenplatte-tag-1-vorbereitung/index.html

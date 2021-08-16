@@ -10,6 +10,6 @@ highresolutionimg:
 
 <div class="entry-content">
 
-dieser Inhalt ist nicht verf&uuml;gbar
+keine Details angegeben
 
 </div><!-- .entry-content -->
