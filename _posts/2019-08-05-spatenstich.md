@@ -3,7 +3,6 @@ layout: gallery
 photos:
     set: spatenstich
     size: 1
-
 date:   2019-08-05 07:15:00
 categories: Bautagebuch
 permalink: bautagebuch/spatenstich/index.html
