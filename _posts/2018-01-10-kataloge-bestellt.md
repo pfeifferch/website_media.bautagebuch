@@ -7,9 +7,4 @@ title:  "KATALOGE BESTELLT"
 thumbnail: 
 highresolutionimg: 
 ---
-
-<div class="entry-content">
-
 Kataloge für Fertighäuser Bestellt
-
-</div><!-- .entry-content -->

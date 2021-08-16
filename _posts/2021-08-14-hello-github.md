@@ -7,9 +7,4 @@ permalink: /2021/08/14/hello-galaxy/index.html
 thumbnail: 
 highresolutionimg: 
 ---
-
-<div class="entry-content">
-
 Das Bautagebuch ist vor kurzem nach GitHub umgezogen und wird gerade zu einer Jekyll Page.
-
-</div><!-- .entry-content -->

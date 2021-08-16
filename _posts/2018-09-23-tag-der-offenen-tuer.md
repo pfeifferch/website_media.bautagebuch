@@ -7,22 +7,10 @@ title:  "TAG DER OFFENEN TÜR BEI BÜDENBENDER"
 thumbnail: 
 highresolutionimg: 
 ---
-
-<div class="entry-content">
 Tag der offenen Tür
-
 <!--more-->
-
 Nachmittags hin,
-
 Babbsatt,
-
 Rätsel-Ralley mit gemacht,
-
 Produktionshallen und -Schritte gesehen,
-
 Logo als Geschenk
-
-
-
-</div><!-- .entry-content -->

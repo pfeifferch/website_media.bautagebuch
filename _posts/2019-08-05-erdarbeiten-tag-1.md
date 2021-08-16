@@ -10,6 +10,12 @@ title:  "BEGINN DER ERDARBEITEN – ERDARBEITEN TAG 1"
 thumbnail: 
 highresolutionimg: 
 ---
+Bagger gekommen
+Wurzeln entfernt
+<!--more-->
+Ersten Teil der Baugrube
+Unrat wurde aufgehäuft
+Graben für L-Steine
 
 20190805_195414.jpg
 20190805_195415.jpg
@@ -35,19 +41,3 @@ highresolutionimg:
 20190805_065816.jpg
 20190805_195421.jpg
 20190805_195420.jpg
-
-Bagger gekommen
-
-Wurzeln entfernt
-
-<!--more-->
-
-Ersten Teil der Baugrube
-
-Unrat wurde aufgehäuft
-
-Graben für L-Steine
-
-
-
-</div><!-- .entry-content -->

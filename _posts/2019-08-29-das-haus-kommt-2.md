@@ -6,9 +6,4 @@ itle:  "Das Haus kommt - Tag 2 - Spitzboden"
 thumbnail: 
 highresolutionimg: 
 ---
-
-<div class="entry-content">
-
 Spitzboden
-
-</div><!-- .entry-content -->

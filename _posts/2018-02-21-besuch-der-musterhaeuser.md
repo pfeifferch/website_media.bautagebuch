@@ -7,9 +7,4 @@ title:  "HÄUSER STATT PAPIER – BESUCH DER MUSTERHÄUSER IN MÜHLHEIM KÄRLICH
 thumbnail: 
 highresolutionimg: 
 ---
-
-<div class="entry-content">
-
 Häuser statt Papier – Besuch der Musterhäuser in Mühlheim Kärlich
-
-</div><!-- .entry-content -->

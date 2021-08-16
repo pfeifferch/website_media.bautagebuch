@@ -7,9 +7,4 @@ title:  "ERDARBEITEN TAG 6 (ABSCHNITT 2.2)"
 thumbnail: 
 highresolutionimg: 
 ---
-
-<div class="entry-content">
-
 keine Details angegeben
-
-</div><!-- .entry-content -->

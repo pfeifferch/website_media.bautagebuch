@@ -7,18 +7,8 @@ title:  "MIETE ODER WOHNEIGENTUM"
 thumbnail: 
 highresolutionimg: 
 ---
-
-<div class="entry-content">
-
 weiter Miete oder doch Wohneigentum?
-
 <!--more-->
-
 Festgestellt Mieten für Geräumige Wohnung fast so teuer wie Abtrag eigenes Haus
-
-
 Was ist, wenn Renovierungsarbeiten anstehen, wie bei Kollege xy?
-
 Ausziehen und in renovierter/neuer Wohnung doppelte Miete Zahlen?
-
-</div><!-- .entry-content -->

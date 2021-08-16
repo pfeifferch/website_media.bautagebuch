@@ -6,9 +6,4 @@ itle:  "Das Haus kommt - Tag 1 - EG und OG"
 thumbnail: 
 highresolutionimg: 
 ---
-
-<div class="entry-content">
-
 Erste Wände und OG
-
-</div><!-- .entry-content -->

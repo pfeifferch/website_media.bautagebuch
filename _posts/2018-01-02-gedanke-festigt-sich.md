@@ -7,9 +7,4 @@ title:  "GEDANKE FESTIGT SICH"
 thumbnail: 
 highresolutionimg: 
 ---
-
-<div class="entry-content">
-
 Der Gedanke, ein Haus zu bauen festigt sich immer mehr
-
-</div><!-- .entry-content -->

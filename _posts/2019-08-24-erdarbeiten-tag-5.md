@@ -7,11 +7,5 @@ title:  "ERDARBEITEN TAG 5 (ABSCHNITT 2.1)"
 thumbnail: 
 highresolutionimg: 
 ---
-
-<div class="entry-content">
-
 Leerrohre Verlegt
-
 Zuwegung für die LKW wurde vorbereitet
-
-</div><!-- .entry-content -->

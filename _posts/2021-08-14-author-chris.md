@@ -8,8 +8,6 @@ thumbnail:
 highresolutionimg: 
 ---
 
-<div class="entry-content">
-
 {% for post in site.categories.Bautagebuch %} 
 
 <blockquote>
@@ -26,6 +24,3 @@ highresolutionimg:
 </blockquote>
 
 {% endfor %}
-
-
-</div><!-- .entry-content -->

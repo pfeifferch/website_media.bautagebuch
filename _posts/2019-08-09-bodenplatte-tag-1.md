@@ -10,13 +10,10 @@ title:  "ARBEITEN BODENPLATTE – TAG 1 (VORBEREITUNG)"
 thumbnail: 
 highresolutionimg: 
 ---
-
 Materialanlieferung
 <!--more-->
 Schaltung Beton
-
 Rohre verlegt (Mehrspartenhauseinführung musste noch auf die Schnelle beschafft werden, Danke an Dichelbau)
-
 
 20190809_095239.jpg
 20190809_095252.jpg

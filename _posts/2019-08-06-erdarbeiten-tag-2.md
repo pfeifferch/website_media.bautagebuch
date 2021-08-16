@@ -10,6 +10,10 @@ title:  "ERDARBEITEN TAG 2"
 thumbnail: 
 highresolutionimg: 
 ---
+Erste Ladung Schotter
+<!--more-->
+Unkraut und Wurzelmüll weg gebracht
+Graben für L-Steine eingeschottert
 
 20190806_165827.jpg
 20190806_165829.jpg
@@ -18,11 +22,3 @@ highresolutionimg:
 20190806_095234.jpg
 20190806_095242.jpg
 20190806_100305.jpg
-
-Erste Ladung Schotter
-
-<!--more-->
-
-Unkraut und Wurzelmüll weg gebracht
-
-Graben für L-Steine eingeschottert
