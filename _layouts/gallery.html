@@ -15,12 +15,12 @@ layout: default
 
 {% for post in site.content %}
 {{ post.title }}
-{% if post.content == "" or post.content == nil or post.content == blank %} 
+[% if post.content == "" or post.content == nil or post.content == blank %} 
  <p>&nbsp;</p> 
-{% else %} 
+[% else %} 
 <h2>Bild-Informationen</h2>
  {{ post.content }} 
-{% endif %} 
+[% endif %} 
 {% endfor %}
 
 <!--
