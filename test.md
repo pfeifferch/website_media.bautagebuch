@@ -25,7 +25,7 @@ generiquote:before {
 &\f471;
 {% for post in site.categories.Bautagebuch %} 
 
-<div id="generiquote genericon genericon-{{ post.layout }}">
+<div class="generiquote genericon genericon-{{ post.layout }}">
 <span class="screen-reader-text">{{ post.title }}</span>
 <h2 class="entry-title">
 <a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a>
