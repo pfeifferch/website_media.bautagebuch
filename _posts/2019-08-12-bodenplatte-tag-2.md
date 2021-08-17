@@ -10,8 +10,4 @@ title:  "ARBEITEN BODENPLATTE – TAG 2"
 thumbnail: 
 highresolutionimg: 
 ---
-20190813_064243.jpg
-20190813_064244.jpg
-20190813_064431.jpg
-20190813_064241.jpg
-20190813_064357.jpg
+-
