@@ -10,4 +10,4 @@ title:  "ARBEITEN BODENPLATTE – TAG 2"
 thumbnail: 
 highresolutionimg: 
 ---
--
+keine Details angegeben
