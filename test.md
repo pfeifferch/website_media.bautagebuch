@@ -10,7 +10,17 @@ title: Kategorie Bautagebuch
        color: white;
        text-align: center; 
        margin-left:.4em
+       margin-top: 100px
+       position: relative;
     }
+generiquote:before {
+   content: "";
+   background-color: #bfb;
+   top: -100px;
+   height: 100px;
+   width: 100%;
+   position: absolute;
+}
 </style>
 
 {% for post in site.categories.Bautagebuch %} 
