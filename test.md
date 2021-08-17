@@ -4,6 +4,15 @@ permalink: /test/index.html
 title: Kategorie Bautagebuch
 ---
 
+<style>
+    generiquote { 
+       background-color: grey;
+       color: white;
+       text-align: center; 
+       margin-left:.4em
+    }
+</style>
+
 {% for post in site.categories.Bautagebuch %} 
 <!--blockquote-->
 <div id="generiquote genericon genericon-{{ post.layout }}>
