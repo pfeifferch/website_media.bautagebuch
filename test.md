@@ -9,16 +9,15 @@ title: Kategorie Bautagebuch
        background-color: grey;
        color: white;
        text-align: center; 
-       margin-left: 40px /*.4em*/
-       margin-top: 100px
+       margin-left: 100px /*.4em*/
        width: 100%;
     }
 generiquote:before {
    content: "\f471";
    background-color: #bfb;
-   top: -100px;
-   height: 100px;
-   width: 100%;
+   left: -100px;
+   width: 100px;
+   height: 100%;
    position: absolute;
 }
 </style>
