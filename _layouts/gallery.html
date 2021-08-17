@@ -2,7 +2,7 @@
 layout: default
 ---
 <!--<span class="entry-format-badge genericon genericon-gallery"></span>-->
-## Bildergallerie 
+<h2>Bildergallerie</h2>
 {% assign num = page.photos.size %}
 
   {% for i in (1..num) %}
@@ -13,12 +13,12 @@ layout: default
 
 
 
-{% for post in site.categories.publications %}
+{% for post in site.posts %}
 {{ post.title }}
 {% if post.content == "" or post.content == nil or post.content == blank %} 
  <p>&nbsp;</p> 
 {% else %} 
-## Bild-Informationen
+<h2>Bild-Informationen</h2>
  {{ post.content }} 
 {% endif %} 
 {% endfor %}
