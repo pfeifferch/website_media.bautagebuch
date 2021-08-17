@@ -14,7 +14,7 @@ title: Kategorie Bautagebuch
        position: relative;
     }
 generiquote:before {
-   content: "";
+   content: "\f471";
    background-color: #bfb;
    top: -100px;
    height: 100px;
@@ -22,7 +22,7 @@ generiquote:before {
    position: absolute;
 }
 </style>
-
+&\f471;
 {% for post in site.categories.Bautagebuch %} 
 
 <div id="generiquote genericon genericon-{{ post.layout }}">
