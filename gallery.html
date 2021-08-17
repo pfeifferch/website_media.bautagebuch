@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Photos
-permalink: /photos/
+title: Galerie 
+permalink: /gallery/
 description: "ENTER HERE"
 ---
 
@@ -10,7 +10,7 @@ description: "ENTER HERE"
   {% comment %}
     Get all "photo_set" pages and display a list with links to them.
   {% endcomment %}
-  {% assign photo_pages = site.pages | where: "layout", "photo_set" %}
+  {% assign photo_pages = site.pages | where: "layout", "gallery" %}
   {% for photo_page in photo_pages %}
     <li>
       <a href="{{ photo_page.url | prepend: site.baseurl }}">{{ photo_page.title }}</a>
