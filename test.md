@@ -5,7 +5,8 @@ title: Kategorie Bautagebuch
 ---
 
 {% for post in site.categories.Bautagebuch %} 
-<blockquote style="genericon genericon-{{ post.layout }}>
+<!--blockquote-->
+<div id="generiquote genericon genericon-{{ post.layout }}>
 <span class="screen-reader-text">{{ post.title }}</span>
 <h2 class="entry-title">
 <a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a>
@@ -16,6 +17,7 @@ title: Kategorie Bautagebuch
 </a>
 {{ post.excerpt }}
 </h5>
+</div>
 </blockquote>
 
 {% endfor %}
