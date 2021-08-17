@@ -11,7 +11,7 @@ title: Kategorie Bautagebuch
        text-align: center; 
        margin-left: 40px /*.4em*/
        margin-top: 100px
-       position: relative;
+       width: 100%;
     }
 generiquote:before {
    content: "\f471";
