@@ -5,7 +5,7 @@ title: Kategorie Bautagebuch
 ---
 
 {% for post in site.categories.Bautagebuch %} 
-
+{{ post.layout }}
 <blockquote>
 <span class="screen-reader-text">{{ post.title }}</span>
 <h2 class="entry-title">
