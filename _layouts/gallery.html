@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-<span class="entry-format-badge genericon genericon-gallery"></span>
+<!--<span class="entry-format-badge genericon genericon-gallery"></span>-->
+## Bildergallerie 
 {% assign num = page.photos.size %}
 
   {% for i in (1..num) %}
@@ -9,6 +10,19 @@ layout: default
 <img src="{{ site.baseurl }}/assets/bildergalerien/{{ page.photos.set }}_preview/{{ i }}.jpg" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">
 </a>
   {% endfor %}
+
+
+
+{% for post in site.categories.publications %}
+{{ post.title }}
+{% if post.content == "" or post.content == nil or post.content == blank %} 
+ <p>&nbsp;</p> 
+{% else %} 
+## Bild-Informationen
+ {{ post.content }} 
+{% endif %} 
+{% endfor %}
+
 <!--
 <div>
   <a href="{{ site.baseurl }}/photos/">View All Photo Sets</a>
