@@ -15,16 +15,16 @@ layout: default
 <h2>Informationen / Sonstiges</h2>
  {{ content }} 
 
-{{ "{% if site.related_posts.size > 0 "}}%} 
+{% if site.related_posts.size > 0 %} 
 <div class="panel panel-default"> 
 <div class="panel-heading">Verwandte Artikel:</div> 
 <div class="panel-body"> 
-{{ "{% for post in site.related_posts "}}%} 
+{% for post in site.related_posts %} 
 <li><a href="{{ "{{ site.url "}}}}{{ "{{ post.url "}}}}" title="{{ "{{ post.title "}}}}>{{ "{{ post.title "}}}}</a></li> 
-{{ "{% endfor "}}%} 
+{% endfor %}
 </div>
 </div> 
-{{ "{% endif "}}%}
+{% endif %}
 
 
 <!--
