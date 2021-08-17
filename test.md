@@ -14,7 +14,7 @@ title: Kategorie Bautagebuch
     }
 generiquote:before {
    content: "\f471";
-   background-color: #bfb;
+   background-color: #000;
    left: -100px;
    width: 100px;
    height: 100%;
