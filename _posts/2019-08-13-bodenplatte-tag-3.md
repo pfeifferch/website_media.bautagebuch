@@ -10,3 +10,4 @@ title:  "Bodenplatte Tag 3 - Bodenplatte wird gegossen"
 thumbnail: 
 highresolutionimg: 
 ---
+keine Details angegeben
