@@ -9,7 +9,7 @@ title: Kategorie Bautagebuch
        background-color: grey;
        color: white;
        text-align: center; 
-       margin-left:.4em
+       margin-left: 40px /*.4em*/
        margin-top: 100px
        position: relative;
     }
