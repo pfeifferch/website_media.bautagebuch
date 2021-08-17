@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: document
 date:   2018-02-21 08:15:00
 categories: Bautagebuch
 permalink: bautagebuch/haeuser-statt-papier-besuch-der-musterhaeuser-in-muehlheim-kaerlich/index.html

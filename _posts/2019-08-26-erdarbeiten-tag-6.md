@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: document
 date:   2019-08-26 08:15:00
 categories: Bautagebuch
 permalink: bautagebuch/erdarbeiten-tag-6/index.html
