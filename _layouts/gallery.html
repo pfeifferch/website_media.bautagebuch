@@ -13,7 +13,7 @@ layout: default
 
 
 
-{% for post in post.content %}
+{% for post in site.content %}
 {{ post.title }}
 [% if post.content == "" or post.content == nil or post.content == blank %} 
  <p>&nbsp;</p> 
