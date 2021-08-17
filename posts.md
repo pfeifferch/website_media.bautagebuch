@@ -6,7 +6,7 @@ title: Kategorie Bautagebuch
 
 {% for post in site.categories.Bautagebuch %} 
 <blockquote>
-<svg class="genericons genericons-{{ post.layout }}" width="16px" height="16px"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="genericons-neue.svg#{{ post.layout }}"></use></svg>
+<span class="entry-format-badge genericon genericon-{{ post.layout }}"></span>
 <span class="screen-reader-text">{{ post.title }}</span>
 <h2 class="entry-title">
 <a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a>
