@@ -7,7 +7,7 @@ title: Kategorie Bautagebuch
 {% for post in site.categories.Bautagebuch %} 
 <blockquote>
 <span class="screen-reader-text">{{ post.title }}</span>
-<h2 class="entry-title genericon genericon-{{ post.layout }}">
+<h2 class="entry-title">
 <a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a>
 </h2>
 <h5 class="entry-date">
