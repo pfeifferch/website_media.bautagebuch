@@ -14,11 +14,3 @@ Materialanlieferung
 <!--more-->
 Schaltung Beton
 Rohre verlegt (Mehrspartenhauseinführung musste noch auf die Schnelle beschafft werden, Danke an Dichelbau)
-
-20190809_095239.jpg
-20190809_095252.jpg
-20190809_154933.jpg
-20190809_095242.jpg
-20190809_100114.jpg
-20190809_095304.jpg
-20190809_095521.jpg
