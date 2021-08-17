@@ -11,4 +11,3 @@ thumbnail:
 highresolutionimg: 
 ---
 DER ERSTE SPATENSTICH
-20190806_222409.jpg
