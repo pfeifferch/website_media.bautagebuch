@@ -3,11 +3,20 @@ layout: default
 permalink: /test/index.html 
 title: Kategorie Bautagebuch
 ---
+<style>
+#kuller {
+ margin: auto;
+ width: 44px;
+ height: 44px;
+ background-color: #222425;
+ border-radius: 360px;
+}
+</style>
 
 
 {% for post in site.categories.Bautagebuch %} 
 <blockquote><div style="  display: grid; gap: 1em;  margin: 0em;">
-<div style="width: 30px; height: 100%;"><h1 class="genericon genericon-{{ post.layout }}">&nbsp;</h1></div>
+<div style="width: 30px; height: 100%;"><h1 id="kuller" class="genericon genericon-{{ post.layout }}">&nbsp;</h1></div>
 <div style="height: 100%;">
 	<span class="screen-reader-text">{{ post.title }}</span>
 	<h2 class="entry-title">
