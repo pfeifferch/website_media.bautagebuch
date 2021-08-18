@@ -8,8 +8,8 @@ title: Kategorie Bautagebuch
  margin: auto;
  width: 44px;
  height: 44px;
- background-color: #222425;
- color: lightgrey
+ background-color: #000;
+ color: #637d96;
  text-align: center;
  vertical-align: middle;
  border-radius: 360px;
