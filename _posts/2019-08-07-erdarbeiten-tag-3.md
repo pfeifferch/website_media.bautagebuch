@@ -4,7 +4,7 @@ photos:
     set: erdarbeiten-tag-3
     size: 26
 date:   2019-08-07 08:15:00
-categories: Bautagebuch
+categories: Bautagebuch Gallery
 permalink: bautagebuch/erdarbeiten-tag-3/index.html
 title:  "Erdarbeiten Tag 3"
 thumbnail: 

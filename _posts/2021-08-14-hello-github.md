@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2021-08-14 09:15:00
-categories: Bautagebuch
+categories: helloworld
 title:  "Hello World II - Hello GitHub"
 permalink: /2021/08/14/hello-galaxy/index.html
 thumbnail: 

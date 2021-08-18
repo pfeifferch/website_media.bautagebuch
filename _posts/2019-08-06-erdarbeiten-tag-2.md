@@ -4,7 +4,7 @@ photos:
     set: erdarbeiten-tag-2
     size: 7
 date:   2019-08-06 08:15:00
-categories: Bautagebuch
+categories: Bautagebuch Gallery
 permalink: bautagebuch/erdarbeiten-tag-2/index.html
 title:  "Erdarbeiten Tag 2"
 thumbnail: 

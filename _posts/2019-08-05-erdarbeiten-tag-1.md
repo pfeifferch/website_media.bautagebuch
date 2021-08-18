@@ -4,7 +4,7 @@ photos:
     set: erdarbeiten-tag-1
     size: 24
 date:   2019-08-05 08:15:00
-categories: Bautagebuch
+categories: Bautagebuch Gallery
 permalink: bautagebuch/beginn-der-erdarbeiten-erdarbeiten-tag-1/index.html
 title:  "Erdarbeiten Tag 1 (Beginn der Erdarbeiten)"
 thumbnail: 

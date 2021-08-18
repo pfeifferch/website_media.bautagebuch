@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2017-11-11 08:15:00
-categories: Bautagebuch
+categories: helloworld
 permalink: /bautagebuch/hallo-welt/index.html
 title:  "hello World - Willkommen beim Hausbau-Blog der Familie Pfeiffer."
 thumbnail: 
