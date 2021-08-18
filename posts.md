@@ -14,7 +14,7 @@ title: Kategorie Bautagebuch
  text-align: center;
  vertical-align: middle;
  font-size: 35px;
- margin-top: 5px;
+ margin-top: 10px;
  }
 </style>
 
