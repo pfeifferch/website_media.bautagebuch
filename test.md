@@ -6,9 +6,9 @@ title: Kategorie Bautagebuch
 
 
 {% for post in site.categories.Bautagebuch %} 
-<blockquote><span  style="clear:left">
-<span style="float: left; width: 30px; height: 100%; border: 1px solid;"><h1 class="genericon genericon-{{ post.layout }}">&nbsp;</h1></span>
-<span style="float: left; height: 100%; border: 1px solid;">
+<blockquote><div style="  display: grid; gap: 1em;  margin: 0em;">
+<div style="width: 30px; height: 100%;"><h1 class="genericon genericon-{{ post.layout }}">&nbsp;</h1></div>
+<div style="height: 100%;">
 	<span class="screen-reader-text">{{ post.title }}</span>
 	<h2 class="entry-title">
 	<a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a>
@@ -19,8 +19,8 @@ title: Kategorie Bautagebuch
 	</a>
 	{{ post.excerpt }}
 	</h5>
-</span>
-</span>
+</div>
+</div>
 </blockquote>
 
 {% endfor %}
