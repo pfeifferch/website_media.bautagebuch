@@ -12,7 +12,7 @@ layout: default
 
 {% if site.related_posts.size > 0 %} 
 <div class="panel panel-default"> 
-<div class="genericon genericon-portfolio panel-heading ">Verwandte Artikel:</div> 
+<div class="genericon genericon-portfolio" id="panel-heading">Verwandte Artikel:</div> 
 <div class="panel-body"> 
 {% for post in site.related_posts %} 
 <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li> 
