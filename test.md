@@ -10,10 +10,12 @@ title: Kategorie Bautagebuch
  height: 45px;
  background-color: #000;
  color: #637d96;
+ border-radius: 360px;
  text-align: center;
  vertical-align: middle;
- border-radius: 360px;
-font-size: 30px;}
+ font-size: 35px;
+ margin-top: 5px;
+ }
 </style>
 
 
