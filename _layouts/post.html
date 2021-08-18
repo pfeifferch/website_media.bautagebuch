@@ -2,7 +2,7 @@
 layout: default
 ---
 <!--<h2>{{ page.title }}</h2>-->
-<p class="meta">{{ page.date | date_to_string }}</p>
+<p class="meta genericon genericon-month">{{ page.date | date_to_string }}</p>
 <!--<p><img src="/assets/img/post-images/{{page.highresolutionimg}}" alt="Image: {{ page.title }}"></p>-->
 <div class="post">
 {{ content }}
@@ -12,7 +12,7 @@ layout: default
 
 {% if site.related_posts.size > 0 %} 
 <div class="panel panel-default"> 
-<div class="panel-heading">Verwandte Artikel:</div> 
+<div class="panel-heading genericon genericon-portfolio">Verwandte Artikel:</div> 
 <div class="panel-body"> 
 {% for post in site.related_posts %} 
 <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li> 
