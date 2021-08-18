@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Chris
 date:   2021-08-14 09:15:00
 categories: helloworld
 title:  "Hello World II - Hello GitHub"

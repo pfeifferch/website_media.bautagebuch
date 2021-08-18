@@ -1,6 +1,6 @@
 ---
 layout: gallery
-genericon: gallery
+author: Chris
 photos:
     set: erdarbeiten-tag-4
     size: 4

@@ -1,5 +1,6 @@
 ---
 layout: gallery
+author: Chris
 photos:
     set: erdarbeiten-tag-2
     size: 7

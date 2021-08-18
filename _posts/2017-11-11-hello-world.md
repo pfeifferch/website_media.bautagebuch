@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Chris
 date:   2017-11-11 08:15:00
 categories: helloworld
 permalink: /bautagebuch/hallo-welt/index.html

@@ -1,5 +1,6 @@
 ---
 layout: gallery
+author: Chris
 photos:
     set: spatenstich
     size: 1

@@ -1,5 +1,6 @@
 ---
 layout: gallery
+author: Chris
 photos:
     set: bodenplatte-tag-3
     size: 8

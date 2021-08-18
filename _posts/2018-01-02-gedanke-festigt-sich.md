@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Chris
 date:   2018-01-02 08:15:00
 categories: Bautagebuch
 permalink: bautagebuch/gedanke-festigt-sich/index.html

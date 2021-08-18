@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Chris
 date:   2018-02-28 08:15:00
 categories: Bautagebuch
 permalink: bautagebuch/wir-kaufen-ein-haus/index.html
