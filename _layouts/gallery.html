@@ -9,7 +9,7 @@ layout: default
        grid-template-columns: 150px 150px 150px;
        grid-template-rows: 150px 150px 150px;
        grid-gap: 50px;
-   }">
+   }" media="screen and (min-width: 650px)">
   {% for i in (1..num) %}
 <a href="{{ site.baseurl }}/assets/bildergalerien/{{ page.photos.set }}/{{ i }}.jpg"  data-lightbox="{{ page.photos.set }}" class="example-image-link" >
 <img src="{{ site.baseurl }}/assets/bildergalerien/{{ page.photos.set }}_preview/{{ i }}.jpg" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">
