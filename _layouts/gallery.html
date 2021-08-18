@@ -6,9 +6,6 @@ layout: default
 {% assign num = page.photos.size %}
 <span style="
        display: grid;
-       grid-template-columns: auto;
-       grid-template-rows: auto;
-       grid-gap: autopx;
    }">
   {% for i in (1..num) %}
 <a href="{{ site.baseurl }}/assets/bildergalerien/{{ page.photos.set }}/{{ i }}.jpg"  data-lightbox="{{ page.photos.set }}" class="example-image-link" >
