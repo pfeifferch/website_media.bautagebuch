@@ -6,7 +6,7 @@ photos:
 date:   2019-08-09 08:15:00
 categories: Bautagebuch
 permalink: bautagebuch/arbeiten-bodenplatte-tag-1-vorbereitung/index.html
-title:  "ARBEITEN BODENPLATTE – TAG 1 (VORBEREITUNG)"
+title:  "Arbeiten Bodenplatte – Tag 1 (Vorbereitung)"
 thumbnail: 
 highresolutionimg: 
 ---

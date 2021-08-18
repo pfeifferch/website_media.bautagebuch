@@ -6,7 +6,7 @@ photos:
 date:   2019-08-05 08:15:00
 categories: Bautagebuch
 permalink: bautagebuch/beginn-der-erdarbeiten-erdarbeiten-tag-1/index.html
-title:  "BEGINN DER ERDARBEITEN – ERDARBEITEN TAG 1"
+title:  "Erdarbeiten Tag 1 (Beginn der Erdarbeiten)"
 thumbnail: 
 highresolutionimg: 
 ---
@@ -17,6 +17,7 @@ Ersten Teil der Baugrube
 Unrat wurde aufgehäuft
 Graben für L-Steine
 
+<!--
 20190805_195414.jpg
 20190805_195415.jpg
 20190805_065807.jpg
@@ -41,3 +42,4 @@ Graben für L-Steine
 20190805_065816.jpg
 20190805_195421.jpg
 20190805_195420.jpg
+-->

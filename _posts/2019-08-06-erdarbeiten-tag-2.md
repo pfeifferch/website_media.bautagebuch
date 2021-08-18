@@ -6,7 +6,7 @@ photos:
 date:   2019-08-06 08:15:00
 categories: Bautagebuch
 permalink: bautagebuch/erdarbeiten-tag-2/index.html
-title:  "ERDARBEITEN TAG 2"
+title:  "Erdarbeiten Tag 2"
 thumbnail: 
 highresolutionimg: 
 ---
@@ -15,6 +15,7 @@ Erste Ladung Schotter
 Unkraut und Wurzelmüll weg gebracht
 Graben für L-Steine eingeschottert
 
+<!--
 20190806_165827.jpg
 20190806_165829.jpg
 20190806_165859.jpg
@@ -22,3 +23,4 @@ Graben für L-Steine eingeschottert
 20190806_095234.jpg
 20190806_095242.jpg
 20190806_100305.jpg
+-->

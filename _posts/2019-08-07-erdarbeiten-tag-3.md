@@ -6,7 +6,7 @@ photos:
 date:   2019-08-07 08:15:00
 categories: Bautagebuch
 permalink: bautagebuch/erdarbeiten-tag-3/index.html
-title:  "ERDARBEITEN TAG 3"
+title:  "Erdarbeiten Tag 3"
 thumbnail: 
 highresolutionimg: 
 ---
@@ -17,6 +17,7 @@ Der Erdwall (Hof / Grünfläche) ist angelegt
 Der Erdaushub fürs Haus wurde fertiggestellt (die Ausschachtung – Erde noch drin – kommt auf die L-Steine?!)
 L-Steine gesetzt
 
+<!--
 20190807_194622.jpg
 20190807_195115_029-e1565205323823.jpg
 20190807_195513_007-1-e1565205352683.jpg
@@ -43,3 +44,4 @@ L-Steine gesetzt
 20190807_195902_020.jpg
 20190807_195902_010.jpg
 20190807_195040.jpg
+-->

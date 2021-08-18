@@ -1,9 +1,9 @@
 ---
-layout: document
+layout: post
 date:   2017-12-29 08:15:00
 categories: Bautagebuch
 permalink: bautagebuch/ablauf-in-etwa/index.html
-title:  "MIETE ODER WOHNEIGENTUM"
+title:  "Miete oder doch Wohneigentum?"
 thumbnail: 
 highresolutionimg: 
 ---

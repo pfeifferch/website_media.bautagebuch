@@ -1,9 +1,9 @@
 ---
-layout: document
+layout: post
 date:   2018-03-04 08:15:00
 categories: Bautagebuch
 permalink: bautagebuch/musterhaus-jedermann-angeschaut/index.html
-title:  "MUSTERHAUS JEDERMANN ANGESCHAUT"
+title:  "Musterhaus ''Jedermann'' angeschaut"
 thumbnail: 
 highresolutionimg: 
 ---

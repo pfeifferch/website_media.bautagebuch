@@ -7,7 +7,7 @@ photos:
 date:   2019-08-08 08:15:00
 categories: Bautagebuch
 permalink: bautagebuch/erdarbeiten-tag-4/index.html
-title:  "ERDARBEITEN TAG 4"
+title:  "Erdarbeiten Tag 4"
 thumbnail: 
 highresolutionimg: 
 ---

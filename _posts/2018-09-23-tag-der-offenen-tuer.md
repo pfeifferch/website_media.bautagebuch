@@ -1,9 +1,9 @@
 ---
-layout: document
+layout: post
 date:   2018-09-23 08:15:00
 categories: Bautagebuch
 permalink: bautagebuch/tag-der-offenen-tuer-bei-buedenbender/index.html
-title:  "TAG DER OFFENEN TÜR BEI BÜDENBENDER"
+title:  "Tag der offenen Tür bei B&uuml;denbender"
 thumbnail: 
 highresolutionimg: 
 ---
