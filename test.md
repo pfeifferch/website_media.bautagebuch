@@ -6,19 +6,19 @@ title: Kategorie Bautagebuch
 <style>
 #kuller {
  margin: auto;
- width: 44px;
- height: 44px;
+ width: 45px;
+ height: 45px;
  background-color: #000;
  color: #637d96;
  text-align: center;
  vertical-align: middle;
  border-radius: 360px;
-font-size: 33px;}
+font-size: 30px;}
 </style>
 
 
 {% for post in site.categories.Bautagebuch %} 
-<blockquote><div style="  display: grid; gap: 1em;  margin: 0em;">
+<blockquote>
 <div style="width: 30px; height: 100%;"><h1 id="kuller" class="genericon genericon-{{ post.layout }}">&nbsp;</h1></div>
 <div style="height: 100%;">
 	<span class="screen-reader-text">{{ post.title }}</span>
@@ -31,7 +31,7 @@ font-size: 33px;}
 	</a>
 	{{ post.excerpt }}
 	</h5>
-</div>
+
 </div>
 </blockquote>
 

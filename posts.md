@@ -6,14 +6,14 @@ title: Kategorie Bautagebuch
 <style>
 #kuller {
  margin: auto;
- width: 44px;
- height: 44px;
+ width: 45px;
+ height: 45px;
  background-color: #000;
  color: #637d96;
  text-align: center;
  vertical-align: middle;
  border-radius: 360px;
-font-size: 33px;}
+font-size: 30px;}
 </style>
 
 
