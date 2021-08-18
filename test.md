@@ -9,7 +9,7 @@ title: Kategorie Bautagebuch
  width: 44px;
  height: 44px;
  background-color: #222425;
- color: blue;
+ color: lightgrey;
  border-radius: 360px;
 }
 </style>
