@@ -2,7 +2,10 @@
 layout: default
 ---
 <!--<h2>{{ page.title }}</h2>-->
-<p><span class="meta genericon genericon-month">&nbsp;</span>{{ page.date | date: "%d.%m.%Y" }}</p>
+<p>
+   <span class="meta genericon genericon-month">&nbsp;</span>Veröffentlicht am : {{ page.date | date: "%d.%m.%Y" }}
+   {% if page.author %} <span class="meta genericon genericon-user">&nbsp;</span>Veröffentlicht von:  {{page.author}}{% endif %}
+</p>
 <!--<p><img src="/assets/img/post-images/{{page.highresolutionimg}}" alt="Image: {{ page.title }}"></p>-->
 <div class="post">
 {{ content }}
