@@ -9,9 +9,11 @@ title: Kategorie Bautagebuch
  width: 44px;
  height: 44px;
  background-color: #222425;
- color: lightgrey;
+ color: lightgrey
+ text-align: center;
+ vertical-align: middle;
  border-radius: 360px;
-}
+font-size: 33px;}
 </style>
 
 
