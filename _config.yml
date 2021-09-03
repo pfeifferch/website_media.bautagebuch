@@ -9,4 +9,5 @@ excerpt_separator: <!--more-->
 themecolor: none # not possible
 themeURI: 
 themeBGimage: https://hausbau-blog.pfeiffer.world/assets/bg-images/haus.jpg
-GallerieDir: https://hausbau-blog.pfeiffer.world/assets/bildergalerien
+GallerieDir: https://media.hausbau-blog.pfeiffer.world/assets/bildergalerien
+hbbhomeurl: https://hausbau-blog.pfeiffer.world/
