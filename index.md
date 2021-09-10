@@ -2,9 +2,7 @@
 layout: default
 title: Willkommen
 ---
-## Das <a href="{{ site.hbbhomeurl }}/category/bautagebuch/index.html">Bautagebuch</a> ist vor kurzem nach GitHub umgezogen und wird gerade zu einer Jekyll Page.
-
-Die Inhalte werden nach und nach wieder eingebunden, alles was anschließend nicht mehr verfügbar sein wird soll es dann auch nicht mehr sein.
+## Hier geht es zu unserem <a href="{{ site.hbbhomeurl }}/bautagebuch/index.html">Bautagebuch</a>.
 
 <p>&nbsp;</p>
 <blockquote>
