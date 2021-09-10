@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Willkommen
+permalink: /index.html
 ---
 ## Hier geht es zu unserem <a href="{{ site.hbbhomeurl }}/bautagebuch/index.html">Bautagebuch</a>.
 
