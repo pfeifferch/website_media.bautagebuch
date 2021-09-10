@@ -6,7 +6,7 @@ highlighter: rouge # pygments or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 permalink: /:year/:month/:day/:title/index.html
 excerpt_separator: <!--more-->
-themecolor: ADB9C7 # not possible
+themecolor: ADB9C4
 themeURI: 
 themeBGimage: https://hausbau-blog.pfeiffer.world/assets/bg-images/haus.jpg
 GallerieDir: https://media.hausbau-blog.pfeiffer.world/assets/bildergalerien/
