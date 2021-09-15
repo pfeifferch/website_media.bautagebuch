@@ -1,13 +1,28 @@
-name: Bautagebuch der Fam. Pfeiffer
-title: Bautagebuch der Fam. Pfeiffer 
-subtitle: Hausbau-(B)log der Familie S&amp;C Pfeiffer
+name: "Bautagebuch der Fam. Pfeiffer"
+title: "Bautagebuch der Fam. Pfeiffer"
+subtitle: "Hausbau-(B)log der Familie S&amp;C Pfeiffer"
+description: ""
 markdown: kramdown
 highlighter: rouge # pygments or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 permalink: /:year/:month/:day/:title/index.html
 excerpt_separator: <!--more-->
+templateserverurl: https://template.pc-cdn.de
 themecolor: 585E60
-themeURI: 
+dummyimage: overlay-pattern.png
+themeURI: none
 themeBGimage: https://hausbau-blog.pfeiffer.world/assets/bg-images/haus.jpg
 GallerieDir: https://media.hausbau-blog.pfeiffer.world/assets/bildergalerien/
 hbbhomeurl: https://hausbau-blog.pfeiffer.world/
+livereload: true
+author: Christian Pfeiffer
+
+# Pagination Settings 
+#pagination:
+#  enabled: true
+#  per_page: 2
+#  permalink: '/page/:num/'
+#  title: ' - page :num'
+#  limit: 0
+#  sort_field: 'date'
+#  sort_reverse: true
