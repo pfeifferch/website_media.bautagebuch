@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="de-DE">
 <head>
-<title>{{ page.title }}</title>
+<title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }} - {{ site.subtitle }}</title>
 <meta name="robots" content="max-image-preview:large">
 <meta name="description" content="{{ page.description | default: site.description }}" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -114,11 +114,9 @@
 	</div>
 <!-- #content -->
 
-	<footer id="colophon" class="site-footer" role="contentinfo">
+<footer id="colophon" class="site-footer" role="contentinfo">
 		
-		<div class="site-info">
-			<div>Theme: Writr von <a href="http://wordpress.com/themes/writr/" rel="designer">WordPress.com</a>.</div>
-		</div>
+
 <div class="page-footer">
 {% include page-footer.html %}
 </div>
@@ -138,7 +136,7 @@
 <script type="text/javascript" src="https://template.pc-cdn.de/content/themes/writr/js/navigation.js" id="writr-navigation-js"></script>
 <script type="text/javascript" src="https://template.pc-cdn.de/content/themes/writr/js/skip-link-focus-fix.js" id="writr-skip-link-focus-fix-js"></script>
 <script type="text/javascript" src="https://c0.wp.com/c/5.7.2/wp-includes/js/underscore.min.js" id="underscore-js"></script>
-<script type="text/javascript" src="https://template.pc-cdn.de/content/themes/writr/js/writr.js" id="writr-script-js"></script>
+<script type="text/javascript" src="http://template.pc-cdn.de/content/themes/writr/js/writr.js" id="writr-script-js"></script>
 <script type="text/javascript" id="jetpack-lazy-images-js-extra">
 /* <![CDATA[ */
 var jetpackLazyImagesL10n = {"loading_warning":"Images are still loading. Please cancel your print and try again."};
